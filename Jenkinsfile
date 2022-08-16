@@ -15,6 +15,7 @@ pipeline {
       steps {
 
         bat 'java -version'
+        echo ' I am in Developer-Branch'
 
       }
 
